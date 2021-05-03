@@ -1,0 +1,12 @@
+CREATE DATABASE leitura;
+
+USE leitura;
+
+CREATE TABLE livros(
+	id INTEGER AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(20) NOT NULL,
+    genero VARCHAR(20),
+    autor VARCHAR(20),
+    paginas INT,
+    concluida BOOLEAN
+);

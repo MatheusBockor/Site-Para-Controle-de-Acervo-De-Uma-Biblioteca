@@ -1,0 +1,65 @@
+#cadastro{
+    border:1px solid black;
+    padding: 2.5%;
+    width:25%;
+    font-family: Bradley Hand, cursive;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px 20px;
+    margin-bottom: 0px;
+}
+
+#listar{
+    border:1px solid black;
+    float:right;
+    margin-top: -38%;
+    padding: 2.5%;
+    width:60%;
+    margin-left: 30%;
+    font-family: Bradley Hand, cursive;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px 20px;
+}
+
+.campo{
+    margin-top: 8%;
+    
+}
+
+.h3{
+    margin-left: 10%;
+    font-family: Bradley Hand, cursive;
+}
+
+.myButton{
+	box-shadow:inset 5px 1px 0px -18px #a6827e;
+	background:linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+	background-color:#7d5d3b;
+	border-radius:8px;
+	border:1px solid #54381e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:11px 29px;
+	text-decoration:none;
+    text-shadow:0px 1px 32px #4d3534;
+    margin-top: 5%;
+    
+}
+.myButton:hover{
+	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+	background-color:#634b30;
+}
+.myButton:active{
+	position:relative;
+	top:1px;
+}
+
+#footer{
+  
+    bottom: 0;
+        position: fixed;
+        width: 90%;
+        text-align: center;
+}
