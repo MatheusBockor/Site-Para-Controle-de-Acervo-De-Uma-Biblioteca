@@ -1,0 +1,2 @@
+# Site Para Controle de Acervo De Uma Biblioteca
+ Trata-se de um site desenvolvido em PHP com banco de dados SQl, para controle de acervo de uma biblioteca, nele é possível cadastrar novos livros com possibilidade de adicionar uma imagem referente a capa, na mesma página ao lado direto são exibidos os livros já cadastrados, tendo a opção de remover algum livro ou alterar informações relacionadas ao livro
